@@ -26,17 +26,6 @@
   margin-top: 80px;
 }
 
-.header {
-  position: relative;
-  height: 100vh;
-  min-height: 600px;
-  max-height: 756px;
-  display: flex;
-  align-items: center;
-  background-color: #f2f2f2;
-  /* выше установили ограничения для секции */
-}
-
 .logo {
   width: 228px;
   height: 32px;
@@ -49,16 +38,6 @@
   background-image: url("../images/logo_place_header.svg");
 }
 
-.header__title {
-  position: relative;
-  width: 730px;
-  font-size: 102px;
-  line-height: 96px;
-  font-weight: 700;
-  display: flex;
-  margin: 0 0 0 64px;
-  z-index: 3;
-}
 
 .header__subtitle {
   font-size: 18px;
