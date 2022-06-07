@@ -1,0 +1,7 @@
+.digits {
+  display: flex;
+  align-items: center;
+  padding: 100px 0;
+  background-color: #fff;
+  flex-direction: column;
+}

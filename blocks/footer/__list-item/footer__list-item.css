@@ -1,0 +1,7 @@
+.footer__list-item {
+  display: flex;
+  color: white;
+  margin: 0;
+  align-items:center;
+  text-decoration: none;
+}
