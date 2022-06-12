@@ -1,4 +1,5 @@
 .header__square-pic {
+  overflow: hidden;
   position: absolute;
   height: 568px;
   width: 568px;
@@ -6,4 +7,5 @@
   right: 0px;
   background-color: #2f80ed;
   z-index: 1;
+  animation: rotation 20s backwards linear infinite;
 }
